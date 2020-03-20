@@ -1,0 +1,11 @@
+{
+  "name": "express-app-own",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:PaPaX2/express-app-own.git",
+  "author": "Kajetan Terlecki <k.terlecki@wp.pl>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
